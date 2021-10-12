@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Zachary Bazyar 👋
 
+## I'm a 3rd year Mechatronics Engineering student at University of Queensland
 <!--
 **Ozzigzach/Ozzigzach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages and tools:
+
+---
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ozzigzach&show_icons=true&hide_border=true" />
